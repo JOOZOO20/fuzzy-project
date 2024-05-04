@@ -17,7 +17,7 @@
 * 함수 그래프 코드 제작
 * 추론 규칙 및 소속 함수 공동 설
 
-### 그래프
+### 🟡 그래프
 * <b>입력 1에 대한 소속함수들</b>
 <p><img width="300px" height="200px" src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/0bc36201-4067-4686-9a86-16e50fea308a"></p>
 * <b>입력 2에 대한 소속함수들</b>

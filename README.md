@@ -19,8 +19,8 @@
 
 ### 그래프
 * <b>입력 1에 대한 소속함수들</b>
-<img src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/0bc36201-4067-4686-9a86-16e50fea308a">
+<p><img width="80%" height="80%" src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/0bc36201-4067-4686-9a86-16e50fea308a"></p>
 * <b>입력 2에 대한 소속함수들</b>
-<img src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/2718f489-8d87-40d8-a263-109fb489636c">
+<p><img width="80%" height="80%" src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/2718f489-8d87-40d8-a263-109fb489636c"></p>
 * <b>출력에 대한 소속함수들</b>
-<img src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/c8048887-e6c1-454a-80b1-0a62588d5b89">
+<p><img width="80%" height="80%" src="https://github.com/JOOZOO20/fuzzy-project/assets/62732461/c8048887-e6c1-454a-80b1-0a62588d5b89"></p>
